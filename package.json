@@ -1,0 +1,20 @@
+{
+  "name": "backend-sheriyans",
+  "version": "1.0.0",
+  "description": "everything I learn about backend",
+  "homepage": "https://github.com/starscreamwashere/BackendEverything#readme",
+  "bugs": {
+    "url": "https://github.com/starscreamwashere/BackendEverything/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starscreamwashere/BackendEverything.git"
+  },
+  "license": "ISC",
+  "author": "Anubhav Kharkar",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
